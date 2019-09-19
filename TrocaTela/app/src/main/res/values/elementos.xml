@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bebidas">
+        <item> Coca Cola</item>
+        <item> Fanta</item>
+        <item> Guarana</item>
+        <item> Água</item>
+        <item> H20H</item>
+    </string-array>
+</resources>

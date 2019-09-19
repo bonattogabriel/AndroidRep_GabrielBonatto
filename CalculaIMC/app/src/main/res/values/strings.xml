@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalculaIMC</string>
+    <string name="peso">Peso: </string>
+    <string name="altura">Altura: </string>
+    <string name="resultado">Resultado: </string>
+    <string name="zeros"> 0,0 </string>
+    <string name="calcular">Calcular </string>
+    <string name="limpar">Limpar </string>
+    <string name="calcula_long_click">Calcula o IMC</string>
+    <string name="limpa_long_click">Limpar Resultado e Campo</string>
+    <string name="erro_peso">Campo peso deve ser informado</string>
+    <string name="erro_altura">Campo altura deve ser informado</string>
+    <string name="hint_peso">Peso em Quilograma</string>
+    <string name="hint_altura">Altura decimal (ex: 1.8)</string>
+</resources>

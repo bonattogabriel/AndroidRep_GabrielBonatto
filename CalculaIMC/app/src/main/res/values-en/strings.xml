@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="peso">Weight: </string>
+    <string name="altura">Height: </string>
+    <string name="resultado">Result: </string>
+    <string name="zeros"> 0.0 </string>
+    <string name="calcular">Calculate </string>
+    <string name="limpar">Clear </string>
+    <string name="calcula_long_click">Calculates the BMI</string>
+    <string name="limpa_long_click">Clears both result and input fields</string>
+    <string name="erro_peso">Weight can not be null!</string>
+    <string name="erro_altura">Height can not be null!</string>
+    <string name="hint_peso">Input your Weight (lbs)</string>
+    <string name="hint_altura">Input your Height (inches)</string>
+</resources>
