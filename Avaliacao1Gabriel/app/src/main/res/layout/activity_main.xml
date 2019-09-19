@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:text="Nível do jogo:"
+      android:layout_marginBottom="10dp"
+      android:layout_marginTop="10dp"/>
+
+  <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+      <EditText
+          android:layout_width="200dp"
+          android:layout_height="wrap_content"
+        android:enabled="false"
+          android:textAlignment="center"
+        android:id="@+id/etNivel"
+          android:layout_marginRight="20dp"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:text="Escolher Nível"
+      android:onClick="btnNivelOnClick"/>
+
+    </LinearLayout>
+
+  <LinearLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="80dp"
+      android:text="Jogar"
+      android:onClick="btnJogarOnClick"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+      android:layout_marginTop="80dp"
+      android:layout_marginLeft="25dp"
+      android:text="Zerar Placar"/>
+
+  </LinearLayout>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+    android:text="Último Placar:"
+    android:layout_marginTop="100dp"
+    android:layout_marginLeft="35dp"/>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      android:text="JOGADOR 1   X   JOGADOR 2"
+      android:textAlignment="center"
+      android:layout_marginTop="50dp"/>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+    android:text="0   X   0"
+    android:textAlignment="center"
+    android:layout_marginTop="10dp"
+      android:id="@+id/tvPlacar"/>
+
+  <TextView
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+    android:text="VENCEDOR: "
+      android:layout_marginTop="50dp"
+    android:textAlignment="center"/>
+
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="NivelList">
+
+    <item>BÁSICO [1]</item>
+    <item>MÉDIO [2]</item>
+    <item>AVANÇADO [3]</item>
+
+  </string-array>
+
+</resources>
