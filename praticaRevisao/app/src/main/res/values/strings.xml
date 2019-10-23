@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Revisao</string>
+    <string name="moeda_corrente">Moeda Corrente:</string>
+    <string name="tipo_moeda">REAL</string>
+    <string name="valor_converter">Valor a Converter:</string>
+    <string name="converter_para">Converter Para:</string>
+    <string name="btn_pesquisa">Pesquisar Código</string>
+    <string name="btn_converter">Converter</string>
+    <string name="btn_historico">Histórico</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pratica Un</string>
+    <string name="moeda_corrente">Moneda:</string>
+    <string name="tipo_moeda">PESO</string>
+    <string name="valor_converter">Valor para Convertir:</string>
+    <string name="converter_para">Convertir a:</string>
+    <string name="btn_pesquisa">Buscar Código</string>
+    <string name="btn_converter">Convertir…</string>
+    <string name="btn_historico">Histórico…</string>
+</resources>

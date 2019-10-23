@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practice 1</string>
+    <string name="moeda_corrente">Currency:</string>
+    <string name="tipo_moeda">DOLLAR</string>
+    <string name="valor_converter">Value to Convert:</string>
+    <string name="converter_para">Convert to:</string>
+    <string name="btn_pesquisa">Search Code…</string>
+    <string name="btn_converter">Convert…</string>
+    <string name="btn_historico">History…</string>
+</resources>

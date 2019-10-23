@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="NAF">
+
+        <item>1- Sedentário</item>
+
+        <item>2- Levemente Ativo</item>
+
+        <item>3- Moderamente Ativo</item>
+
+        <item>4- Altamente Ativo</item>
+
+        <item>5- Extremamente Ativo</item>
+
+    </string-array>
+
+</resources>
